@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on projects using technologies such as  NodeJS,Flutter,GraphQl and React,TypeScript.
 - 🔭 I'm also interested in Game Development and would love to help collaborate on any projects
 - 🌱 I’m currently learning AR/VR using Unity
+- 🔭 Looking for people to help me work on MERN Stack project to facilitate placements for BMS College of Engineering
 - 📫 How to reach me: Email: rahulrsgoku@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You can challenge me on chess.com. Username: @heisenberks
@@ -13,8 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on projects using technologies such as  NodeJS,Flutter,GraphQl and React,TypeScript.
-- 🔭 I'm also interested in Game Development and would love to help collaborate on any projects
+- 🔭 I’m currently working on projects using technologies such as  NodeJS,Flutter,GraphQl and React
 - 🌱 I’m currently learning AR/VR using Unity
 - 📫 How to reach me: Email: rahulrsgoku@gmail.com
 - 😄 Pronouns: He/Him
